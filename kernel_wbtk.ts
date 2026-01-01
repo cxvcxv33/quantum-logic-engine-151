@@ -1,0 +1,1 @@
+const service_wbtk = <T>(args: T): T => { return args; };
