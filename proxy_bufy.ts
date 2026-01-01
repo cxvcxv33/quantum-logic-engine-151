@@ -1,0 +1,1 @@
+const service_bufy = <T>(args: T): T => { return args; };
